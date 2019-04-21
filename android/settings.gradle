@@ -1,0 +1,3 @@
+rootProject.name = 'hangout_2510'
+
+include ':app'
